@@ -85,5 +85,3 @@ Created **3 interactive dashboards**:
 
 ---
 
-## 📎 How to Use
-1. Clone this repository:
